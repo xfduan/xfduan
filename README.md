@@ -2,7 +2,10 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=xfduan)
 
+<!--
+Hide Wakatime
 <img src="https://github.com/xfduan/xfduan/blob/master/images/stat.svg" alt="Code Stat"/>
+-->
 
 <!--
 **xfduan/xfduan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
